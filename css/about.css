@@ -1,0 +1,31 @@
+
+body{
+    
+  background-image:  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('/asset/homepage3.jpg');
+  height: 100vh;
+  background-size: cover;
+ background-position: center;
+}
+
+
+  
+h1 {
+  text-align: center;
+  color: aliceblue;
+  position: absolute;
+  top: 7px;
+  left: 507px;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+p {
+  text-align: center;
+  color: aliceblue;
+  position: absolute;
+  top: 166px;
+  left: 37px;
+  font-size: 29px;
+  font-family: 'Times New Roman', Times, serif;
+}
